@@ -1,12 +1,9 @@
 //SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.10;
 
 /**
 @title interface
 @notice provides the interface
  */
 
-contract solidity {
-//SPDX-License-Identifier: UNLICENSED
-address public devAddress = 0x6e9407FDDe480aAE460406E7254c8B25F4091dad;   
-}
+address constant devAddress = 0x6e9407FDDe480aAE460406E7254c8B25F4091dad;   
